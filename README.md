@@ -17,7 +17,7 @@ Make sure you have the following dependencies installed:
 ### Installation
 1. Clone this repository to your local machine using:
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/kcrmin/Australia_Weather_Prediction.git
 ```
 2. Download the dataset from [Kaggle](https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package) and save it to the repository directory.
 
